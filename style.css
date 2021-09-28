@@ -1,0 +1,45 @@
+.recipes-list{
+    color:chocolate;
+    font-size:large;
+    text-align: center;
+}
+
+.recipes-headline{
+    text-align: center;
+    color:brown;
+}
+
+
+
+.index-container{
+    background-color:rgb(245, 226, 209);
+    margin:10px 90px 10px 90px;
+    padding:15px 15px 15px 15px;
+    border:rgb(223, 130, 54);
+    border-radius: 2px;
+    border-style: groove;
+}
+
+.recipe-image
+{
+    border-style:groove;
+    border-radius:2px;
+    float:right;
+    border-color:brown;
+}
+
+.outstanding-text{
+    color:brown;
+}
+.descriptive-text{
+    color:rgb(156, 69, 29);
+}
+
+a:visited{
+    color:rgb(121, 23, 23);
+}
+
+#rice-image{
+    max-width:30%;
+    max-height: 30%;
+}
