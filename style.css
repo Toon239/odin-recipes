@@ -39,7 +39,11 @@ a:visited{
     color:rgb(121, 23, 23);
 }
 
+
 #rice-image{
     max-width:30%;
     max-height: 30%;
+    overflow:hidden;
 }
+
+
